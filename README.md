@@ -1,9 +1,9 @@
 # Fundamentals of Data Analysis - Project 40%
-G00263352
+By Simona Vasiliauskaite G00263352
 
 **Main Objective:**
 
-[] Investigate and explain box plots and their uses
+[ ] Investigate and explain box plots and their uses
 
 **Tasks:**
 * Summarise the history of the box plot and situations in which it used.
