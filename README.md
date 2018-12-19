@@ -1,3 +1,5 @@
+![GmitLogo](https://www.nightcourses.com/wp-content/uploads/2011/12/gmitlogo.jpg)
+
 # Fundamentals of Data Analysis
 By Simona Vasiliauskaite G00263352
 
