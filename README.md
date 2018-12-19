@@ -1,4 +1,4 @@
-# Fundamentals of Data Analysis - Project 40%
+# Fundamentals of Data Analysis
 By Simona Vasiliauskaite G00263352
 
 **Main Objective:**
@@ -13,6 +13,7 @@ By Simona Vasiliauskaite G00263352
 
 How to successfully run this Jupyter file:
 
-Install Python through Anaconda to benefit from it's many packages
-Open command promt line
+* Install Python through Anaconda to benefit from it's many packages
+* Open command prompt line
+* Open jupyter notebook
 
